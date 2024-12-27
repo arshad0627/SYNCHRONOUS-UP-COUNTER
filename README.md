@@ -70,7 +70,7 @@ endmodule
 
 ![Screenshot 2024-12-27 084259](https://github.com/user-attachments/assets/c409bc82-3084-413b-a1f7-63140ee4c432)
 
-**TIMING DIAGARM**
+**OUTPUT**
 
 
 ![Screenshot 2024-12-27 084320](https://github.com/user-attachments/assets/6d5f054e-31e7-46ff-92bb-6080233343e4)
