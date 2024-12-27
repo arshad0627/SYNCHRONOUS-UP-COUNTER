@@ -38,6 +38,11 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 5.For different input combinations generate the timing diagram
 
+**TRUTH TABLE**
+
+
+![truthtable for exp11](https://github.com/user-attachments/assets/7febe242-c8e9-4212-9766-cb0fccb9ccea)
+
 **PROGRAM**
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. 
@@ -69,11 +74,6 @@ endmodule
 
 
 ![Screenshot 2024-12-27 084320](https://github.com/user-attachments/assets/6d5f054e-31e7-46ff-92bb-6080233343e4)
-
-**TRUTH TABLE**
-
-
-![truthtable for exp11](https://github.com/user-attachments/assets/7febe242-c8e9-4212-9766-cb0fccb9ccea)
 
 **RESULT**
 
